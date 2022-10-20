@@ -1,0 +1,1 @@
+Pasta e arquivos criados para testar como subir criações do repositório local ao repositório online
